@@ -1,0 +1,24 @@
+{
+  "name": "lemariolibre",
+  "version": "1.0.0",
+  "description": "Se preocuparon de que cada acto cotidiano fuera un ejercicio económico, magnífico, se comerían entre ellos, por optar al dinero. Tomar una ducha, calentarse el cuerpo, beber un vaso de agua, iluminar la hoja... Postúlese y pase por caja.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurumelo/lemariolibre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurumelo/lemariolibre/issues"
+  },
+  "homepage": "https://github.com/gurumelo/lemariolibre#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hunspell-spellchecker": "^1.0.2",
+    "validator": "^7.0.0"
+  }
+}
