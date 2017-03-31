@@ -1,4 +1,4 @@
-#Lemario libre API
+# Lemario libre API
 
 Hola, soy gilipoyas.
 
@@ -35,14 +35,14 @@ si una palabra existe o no (¿existirá esto que escribo o hablo, lo estoy escri
 
 
 
-####Instalación y ejecución
+#### Instalación y ejecución
 
 ```
 git clone https://github.com/gurumelo/lemariolibre && cd lemariolibre && npm install && node index.js
 ```
 
 
-####Ejemplo de uso
+#### Ejemplo de uso
 ```
 curl http://localhost:1984/api/jamón
 # devuelve: {'existe': true}
